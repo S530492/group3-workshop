@@ -52,4 +52,5 @@ flume <br/>
 ![screenshot 194](https://user-images.githubusercontent.com/31742627/48086073-920c0880-e1c1-11e8-9614-06135f1c412f.png)
 
 
-                
+Reference link: https://github.com/abhiking-agrawal/exploreLogsCloudera
+Powerpoint link: 
